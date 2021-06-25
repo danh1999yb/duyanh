@@ -92,3 +92,5 @@ CREATE TABLE `ExamQuestion` (
     ExamID INT PRIMARY KEY,
     QuestionID INT
 );
+
+/* Daay la comment tu dong */
